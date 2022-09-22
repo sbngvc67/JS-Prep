@@ -41,4 +41,4 @@ students.splice(1,1, 'Matt');//inserts elements
 console.log(students);
 
 var array=[1,30,4,21];
-console.log(array.sort());
+console.log(array.sort()); //cast elements to string and compares the strings to determine
